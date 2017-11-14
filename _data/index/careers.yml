@@ -1,0 +1,59 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: School 42
+    i18n: company_a
+  desc:
+    detail: Ecole Peer-Learning basé sur Paris, Project 42
+    i18n: company_a_desc
+  date:
+    detail: nov. 2016
+    i18n: company_a_date
+  job:
+    detail: Student Développer
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Orange
+    i18n: company_b
+  desc:
+    detail: Gestion client, 
+            vente de services et offres,
+            Gestion des stock, Maîtrise des process Orange
+    i18n: company_b_desc
+  date:
+    detail: Jun. 2013
+    i18n: company_b_date
+  job:
+    detail: Attaché Commercial
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: BTS Attaché commercial Orange
+    i18n: Orange
+  desc:
+    detail: Apprentissage
+    i18n: company_c_desc
+  date:
+    detail: Jun. 2013
+    i18n: company_c_date
+  job:
+    detail: CCI Lyon
+    i18n: company_c_job
+  icon: fa-plus-square
+
+- name:
+    detail: Bac ELEEC
+    i18n: company_d
+  desc:
+    detail: Bac Pro Electrotechnique  et Equipemenet Communiquant
+    i18n: company_d_desc
+  date:
+    detail: Jun. 2012
+    i18n: company_d_date
+  job:
+    detail: Attaché Commercial
+    i18n: company_d_job
+  icon: fa-plus-square
