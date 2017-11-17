@@ -4,7 +4,7 @@
     detail: School 42
     i18n: company_a
   desc:
-    detail: Ecole Peer-Learning basé sur Paris, Project 42
+    detail: Ecole Peer-Learning basée sur Paris, Project 42
     i18n: company_a_desc
   date:
     detail: nov. 2016
@@ -20,7 +20,7 @@
   desc:
     detail: Gestion client, 
             vente de services et offres,
-            Gestion des stock, Maîtrise des process Orange
+            Gestion des stocks, Maîtrise des process Orange
     i18n: company_b_desc
   date:
     detail: Jun. 2013
@@ -48,7 +48,7 @@
     detail: Bac ELEEC
     i18n: company_d
   desc:
-    detail: Bac Pro Electrotechnique  et Equipemenet Communiquant
+    detail: Bac Pro Electrotechnique et Equipements Communiquants
     i18n: company_d_desc
   date:
     detail: Jun. 2012

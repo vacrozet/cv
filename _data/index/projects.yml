@@ -7,9 +7,9 @@
   # repo: Jalpc
   img: /static/assets/img/landing/language.png
   desc: 'Objectif :
-        réaliser nos propres fonctions similaire a celles présentes dans la libc, 
-        Plus réalisation de fonctions dites Bonus pour la gestion des listes chainées, arbres binaires, 
-        manipulation de chaine de caractere, simplification de la gestion des Malloc et free.'
+        réaliser nos propres fonctions similaires à celles présentes dans la lib C et
+         réalisation de fonctions dites \"Bonus\" pour la gestion des listes chainées, arbres binaires, 
+        manipulation de chaînes de caractères, simplification de la gestion des [malloc] et [free].'
 
 - name: Fillit
   i18n: Fillit
