@@ -56,7 +56,7 @@
   # url: https://google.com
   img: /static/assets/img/landing/language.png
   desc: "Objectif :
-        Notre but est de représenter une vue dynamique à l’intérieur d’un labyrinthe dans lequel on peut se déplacer. ////////////////////////////////////////////"
+        Notre but est de représenter une vue dynamique à l’intérieur d’un labyrinthe dans lequel on peut se déplacer. ////////////////////////// ////////////////// /////////////  /////////////////////  ///////////////"
 
 - name: Piscine PHP
   i18n: Piscine PHP
