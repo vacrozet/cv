@@ -70,7 +70,7 @@
   # url: https://google.com
   img: /static/assets/img/landing/php-logo.png
   desc: "Objectif :
-        Réaliser en PHP, un petit site Instagram-like permettant à des utilisateurs de réaliser et partager des photo-montages. Nous avons ainsi implémenter, à mains nues ( les frameworks sont interdits), les fonctionnalités de base rencontrées sur la majorité des sites possédant une base utilisateur (Database: phpMyAdmin MySQL )"
+        Réaliser en PHP, un petit site Instagram-like permettant à des utilisateurs de réaliser et partager des photo-montages. Nous avons ainsi implémenter, à mains nues ( les frameworks sont interdits) les fonctionnalités de base rencontrées sur la majorité des sites possédant une base utilisateur (Database: phpMyAdmin MySQL )"
 
 - name: Matcha
   i18n: Matcha
