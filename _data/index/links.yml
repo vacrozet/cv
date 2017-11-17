@@ -1,15 +1,15 @@
-# links section data
+links section data
 - last_name: Name 1
   first_name:
   desc: CEO
   website: https://www.google.com
   email: ceo@google.com
 
-- last_name: Donate
-  first_name: Jalpc
-  desc: Support Jalpc
-  website: http://www.jarrekk.com/donate/
-  email: me@jarrekk.com
+- last_name: Ecole 42
+  first_name: Ecole 42
+  desc: Born To Code ?
+  website: https://www.42.us.org/
+  website: https://www.42.fr/
 
 - last_name: LN
   first_name: FN
