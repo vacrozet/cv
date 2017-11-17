@@ -81,3 +81,11 @@
         Réaliser, un site Web de rencontre avec le language de notre choix, Un utilisateur devra donc pouvoir s’inscrire, se connecter, compléter son profil, parcourir et rechercher d’autres utilisateurs, les liker
         , et chatter avec ceux qui auront liké en retour.
         j'ai décider de faire le back en Node Js avec le Framework Express et la partie Front en ReactJs (Database: MongoDb NoSQL)."
+
+- name: Hypertube
+  i18n: Hypertube
+  img: /static/assets/img/landing/node_js.png
+  desc: "Objectif :
+        Ce projet a pour but de créer une application web permettant à un utilisateur de
+        rechercher et visionner des vidéos. Le lecteur sera directement intégré au site, et les vidéos seront téléchargées au travers
+        du protocole BitTorrent"
