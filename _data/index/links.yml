@@ -2,7 +2,7 @@
 
 - last_name: Git Hub
   first_name:
-  desc: CEO
+  desc: Personnal GitHub
   website: https://github.com/vacrozet
   email: vacrozet@student.42.fr
 
@@ -14,6 +14,6 @@
 
 - last_name: My
   first_name: Linkedin
-  desc: 
+  desc: Personnal Linkedin
   website: https://www.linkedin.com/in/valentin-crozet-592751a3
   email: crozet.valentin.42@gmail.com
