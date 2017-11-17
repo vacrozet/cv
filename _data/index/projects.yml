@@ -25,7 +25,6 @@
 
 - name: Get Next Line
   i18n: Get Next Line
-  # url: https://google.com
   img: /static/assets/img/landing/language.png
   desc: "Objectif :
         Ce projet à pour but de coder une fonction qui renvoît une ligne terminée par un retour à la 
@@ -35,7 +34,6 @@
 
 - name: Fractol
   i18n: Fractol
-  # url: https://google.com
   img: /static/assets/img/landing/language.png
   desc: "Objectif :
         Nous découvrons la programmation 2D et l’univers psychédelique des fractales grâce à ce projet à réaliser avec la minilibX (librairie mise à disposition par 42).
@@ -44,35 +42,30 @@
 
 - name: FDF
   i18n: FDF
-  # url: https://google.com
   img: /static/assets/img/landing/language.png
   desc: "Objectif :
         Ce projet nous fait découvrir les grands principes de la programmation d’une interface utilisateur au travers de la représentation d’une surface “fil de fer” en 3 dimensions."
 
 - name: Wolf
   i18n: Wolf
-  # url: https://google.com
   img: /static/assets/img/landing/language.png
   desc: "Objectif :
         Inspiré du célèbre jeu éponyme des années 90 qui fut le premier First Person Shooter, ce projet vous permet d’aborder la technique du ray-casting. Notre but sera de représenter une vue dynamique à l’intérieur d’un labyrinthe dans lequel on peut se déplacer"
 
 - name: Piscine PHP
   i18n: Piscine PHP
-  # url: https://google.com
   img: /static/assets/img/landing/php-logo.png
   desc: "Objectif :
         Cette piscine PHP est la porte d’entrée pour l’ensemble des projets Web du cursus 42. Elle aborde de façon simple les fondamentaux liés à cette technologie."
 
 - name: Camagru
   i18n: Camagru
-  # url: https://google.com
   img: /static/assets/img/landing/php-logo.png
   desc: "Objectif :
         Réaliser en PHP, un petit site Instagram-like permettant à des utilisateurs de réaliser et partager des photo-montages. Nous avons ainsi implémenter, à mains nues ( les frameworks sont interdits) les fonctionnalités de base rencontrées sur la majorité des sites possédant une base utilisateur (Database: phpMyAdmin MySQL )"
 
 - name: Matcha
   i18n: Matcha
-  # url: https://google.com
   img: /static/assets/img/landing/js.svg
   desc: "Objectif :
         Réaliser, un site Web de rencontre avec le language de notre choix, Un utilisateur devra donc pouvoir s’inscrire, se connecter, compléter son profil, parcourir et rechercher d’autres utilisateurs, les liker
