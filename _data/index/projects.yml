@@ -6,19 +6,18 @@
   # gh_user: jarrekk
   # repo: Jalpc
   img: /static/assets/img/landing/language.png
-  desc: 'Objectif :
+  desc: "Objectif :
         réaliser nos propres fonctions similaires à celles présentes dans la lib C et
          réalisation de fonctions dites \"Bonus\" pour la gestion des listes chainées, arbres binaires, 
-        manipulation de chaînes de caractères, simplification de la gestion des [malloc] et [free].'
+        manipulation de chaînes de caractères, simplification de la gestion des malloc() et free()."
 
 - name: Fillit
   i18n: Fillit
   # gh_user: python
   # repo: cpython
   img: /static/assets/img/landing/language.png
-  desc: " (Group of two).
-        Objectif :
-        Fillit est un projet vous permettant de découvrir et/ou de vous familiariser avec une 
+  desc: " Objectif :
+        Fillit est un projet me permettant de découvrir et de me familiariser avec une 
         problématique récurrente en programmation : la recherche d'un solution optimale parmi un très
         grand nombre de possibilités, dans un délai raisonnable. Dans le cas de ce projet, il s'agira 
         d'agencer des Tetriminos entre eux et de déterminer le plus petit carré possible pouvant les
