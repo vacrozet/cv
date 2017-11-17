@@ -1,18 +1,36 @@
 links section data
-- last_name: Git Hub
+# - last_name: Git Hub
+#   first_name:
+#   desc: CEO
+#   website: https://github.com/vacrozet
+#   email: vacrozet@student.42.fr
+
+# - last_name: Ecole 42
+#   first_name: 
+#   desc: Born To Code ?
+#   website: https://www.42.us.org
+#   email: vacrozet@student.42.fr
+
+# - last_name: My
+#   first_name: Linkedin
+#   desc: 
+#   website: https://www.linkedin.com/in/valentin-crozet-592751a3
+#   email: crozet.valentin.42@gmail.com
+
+- last_name: Name 1
   first_name:
   desc: CEO
-  website: https://github.com/vacrozet
-  email: vacrozet@student.42.fr
+  website: https://www.google.com
+  email: ceo@google.com
 
-- last_name: Ecole 42
-  first_name: 
-  desc: Born To Code ?
-  website: https://www.42.us.org
-  email: vacrozet@student.42.fr
+- last_name: Donate
+  first_name: Jalpc
+  desc: Support Jalpc
+  website: http://www.jarrekk.com/donate/
+  email: me@jarrekk.com
 
-- last_name: My
-  first_name: Linkedin
-  desc: 
-  website: https://www.linkedin.com/in/valentin-crozet-592751a3
-  email: crozet.valentin.42@gmail.com
+- last_name: LN
+  first_name: FN
+  desc: COO
+  website: https://github.com
+  email: coo@google.com
