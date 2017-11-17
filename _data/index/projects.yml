@@ -82,7 +82,7 @@
 
 - name: Hypertube
   i18n: Hypertube
-  img: /static/assets/img/landing/js.png
+  img: /static/assets/img/landing/js.svg
   desc: "Objectif :
         Ce projet a pour but de créer une application web permettant à un utilisateur de
         rechercher et visionner des vidéos. Le lecteur sera directement intégré au site, et les vidéos seront téléchargées au travers
