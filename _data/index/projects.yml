@@ -74,7 +74,7 @@
 - name: Matcha
   i18n: Matcha
   # url: https://google.com
-  img: /static/assets/img/landing/test.png
+  img: /static/assets/img/landing/test.svg
   desc: "Objectif :
         Réaliser, un site Web de rencontre avec le language de notre choix, Un utilisateur devra donc pouvoir s’inscrire, se connecter, compléter son profil, parcourir et rechercher d’autres utilisateurs, les liker
         , et chatter avec ceux qui auront liké en retour.
