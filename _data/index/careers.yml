@@ -4,7 +4,7 @@
     detail: School 42
     i18n: company_a
   desc:
-    detail: Ecole Peer-Learning basée sur Paris, Project 42
+    detail: Peer-Learning school (Paris), Project 42
     i18n: company_a_desc
   date:
     detail: nov. 2016
@@ -18,23 +18,23 @@
     detail: Orange
     i18n: company_b
   desc:
-    detail: Gestion client, 
-            vente de services et offres,
-            Gestion des stocks, Maîtrise des process Orange
+    detail: Guest management - 
+            sale services and offers - 
+            management of stored - Mastery of process Orange
     i18n: company_b_desc
   date:
     detail: Jun. 2013
     i18n: company_b_date
   job:
-    detail: Attaché Commercial
+    detail: Sales representative
     i18n: company_b_job
   icon: fa-plus-square
 
 - name:
-    detail: BTS Attaché commercial Orange
+    detail: Level BTS Sales representative for Orange
     i18n: Orange
   desc:
-    detail: Apprentissage
+    detail: Apprenticeships
     i18n: company_c_desc
   date:
     detail: Jun. 2013
@@ -48,12 +48,12 @@
     detail: Bac ELEEC
     i18n: company_d
   desc:
-    detail: Bac Pro Electrotechnique et Equipements Communiquants
+    detail:  Level Baccalauréat Professional electronics and communicating equipment
     i18n: company_d_desc
   date:
     detail: Jun. 2012
     i18n: company_d_date
   job:
-    detail: Attaché Commercial
+    detail: Student
     i18n: company_d_job
   icon: fa-plus-square
