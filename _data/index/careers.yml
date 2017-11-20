@@ -1,16 +1,16 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: School 42
+    detail: School 42 (Master in progress)
     i18n: company_a
   desc:
-    detail: Peer-Learning school (Paris), Project 42
+    detail: Peer-Learning school (Paris), Web, Graphic, Software developpement. (Master in progress)
     i18n: company_a_desc
   date:
     detail: nov. 2016
     i18n: company_a_date
   job:
-    detail: Student Développer
+    detail: Student Developper
     i18n: company_a_job
   icon: fa-plus-square
 
@@ -19,8 +19,8 @@
     i18n: company_b
   desc:
     detail: Guest management - 
-            sale services and offers - 
-            management of stored - Mastery of process Orange
+            sales services and offers - 
+            stock control -  Control of process Orange
     i18n: company_b_desc
   date:
     detail: Jun. 2013
@@ -34,7 +34,7 @@
     detail: Level BTS Sales representative for Orange
     i18n: Orange
   desc:
-    detail: Apprenticeships
+    detail: Apprenticeships (Advanced Diploma)
     i18n: company_c_desc
   date:
     detail: Jun. 2013
@@ -48,7 +48,7 @@
     detail: Bac ELEEC
     i18n: company_d
   desc:
-    detail:  Level Baccalauréat Professional electronics and communicating equipment
+    detail:  Level Baccalauréat Professional electronics and communicating equipment (equivalence certificate IV)
     i18n: company_d_desc
   date:
     detail: Jun. 2012
