@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: GitHub, Motivation, HTML, CSS, ReactJS, C, PHP, JS
-percentage: 65, 100, 70, 70, 75, 60, 60, 60
+aspects: C, HTML / CSS, PHP, JS, ReactJS, NodeJS, MySQL / MongoDB
+percentage: 65, 75, 65, 55, 55, 50, 40
