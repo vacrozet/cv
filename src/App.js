@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>En cours de création...</p>
+        <p>En cours de rénovation...</p>
         <Index />
       </header>
     </div>
